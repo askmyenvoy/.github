@@ -13,4 +13,5 @@ An Envoy handles the coordination work around a meeting: understanding who needs
 ## Links
 
 Website: https://askmyenvoy.com
+
 LinkedIn: https://www.linkedin.com/company/askmyenvoy/
