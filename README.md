@@ -1,6 +1,7 @@
 # Ask My Envoy
 
 Ask My Envoy builds AI agents for meeting coordination across calendars, participants and organizations.
+
 An Envoy handles the coordination work around a meeting: understanding who needs to meet, finding suitable availability, and coordinating across organizational boundaries.
 
 ## What we're building
